@@ -1,6 +1,6 @@
 # NextOS
 
-!next_logo
+<img  src="https://raw.githubusercontent.com/Fazokhan/Edit-Readme/main/next_logo.png"  />
 
 ## About Faizan Khan
 
