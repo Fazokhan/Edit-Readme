@@ -1,6 +1,6 @@
 # NextOS
 
-!NextOS Logo
+next_logo.png
 
 ## About Faizan Khan
 
