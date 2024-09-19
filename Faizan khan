@@ -1,0 +1,48 @@
+# NextOS
+
+## About NextOS
+
+NextOS is a custom ROM designed to provide a unique and optimized experience for Android users. Our goal is to deliver a smooth, feature-rich, and highly customizable operating system.
+
+## Features
+
+- **Performance Enhancements**: Optimized for speed and efficiency.
+- **Customizable UI**: Tailor your device's look and feel with themes, icons, and more.
+- **Security**: Enhanced security features to keep your data safe.
+- **Battery Life**: Improved battery management for longer usage.
+- **Regular Updates**: Frequent updates with new features and bug fixes.
+
+## Installation Guide
+
+1. **Backup Your Data**: Ensure all your important data is backed up.
+2. **Unlock Bootloader**: Follow the instructions specific to your device.
+3. **Install Custom Recovery**: Recommended TWRP.
+4. **Download NextOS**: Get the latest version from our releases page.
+5. **Flash ROM**:
+    - Wipe data, cache, and Dalvik cache.
+    - Flash the NextOS zip file.
+    - Flash GApps (optional).
+6. **Reboot**: Enjoy your new NextOS experience!
+
+## Support
+
+If you encounter any issues or have questions, please visit our support page or join our community forum.
+
+## Contributing
+
+We welcome contributions from the community! Please read our contributing guidelines to get started.
+
+## Donations
+
+If you appreciate our work and want to support the development of NextOS, consider making a donation. Your support helps us keep improving and adding new features.
+
+!Donate
+
+## License
+
+NextOS is licensed under the MIT License.
+
+---
+
+Thank you for choosing NextOS! We hope you enjoy the experience.
+
